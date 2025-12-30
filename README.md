@@ -37,3 +37,9 @@ myGUIMM.java (Login UI): Kafe temalı, sekmeli giriş ekranı.
 AnaPanel.java (Main UI): Masaların durumunu görselleştiren ana dashboard.
 
 SiparisEkrani.java (Order UI): Sipariş alma, rezervasyon ve ödeme işlemlerinin yapıldığı ekran.
+
+## 📺 Proje Uygulama Videosu
+
+[![İzlemek için tıklayın](https://img.youtube.com/vi/KBxbsLYn86Y/0.jpg)](https://www.youtube.com/watch?v=KBxbsLYn86Y)
+
+> *Yukarıdaki görsele tıklayarak tanıtım videosunu YouTube üzerinden izleyebilirsiniz.*
