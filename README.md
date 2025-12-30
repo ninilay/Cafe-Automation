@@ -1,14 +1,7 @@
 # Cafe-Automation
 ☕ Cafe Lezzet Otomasyon Sistemi
 Bu proje, bir kafenin günlük operasyonlarını (giriş, masa yönetimi, sipariş ve ödeme) dijital ortamda yönetmek için geliştirilmiş Java Swing tabanlı ve MySQL veritabanı bağlantılı bir masaüstü uygulamasıdır.
-Harika bir fikir! GitHub'a yüklemek projenin "olgunlaştığını" gösterir. İyi bir README dosyası, projeni inceleyen birine (veya ileride kendine) "Bu çocuk ne yapmış?" sorusuna profesyonel bir cevap verir.
 
-Aşağıda senin için hazırladığım, senin projenin özelliklerini (SQL bağlantısı, yönetici/garson ayrımı, rezervasyon sistemi vb.) tam olarak yansıtan bir README taslağı var.
-
-☕ Cafe Lezzet Otomasyon Sistemi
-Bu proje, bir kafenin günlük operasyonlarını (giriş, masa yönetimi, sipariş ve ödeme) dijital ortamda yönetmek için geliştirilmiş Java Swing tabanlı ve MySQL veritabanı bağlantılı bir masaüstü uygulamasıdır.
-
-🚀 Öne Çıkan Özellikler
 Çoklu Kullanıcı Girişi: Yönetici ve Garson rolleri için ayrı giriş sekmeleri.
 
 Dinamik Masa Yönetimi: Masaların anlık durumuna göre renk değişimi:
